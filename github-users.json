@@ -1,0 +1,33 @@
+[
+	{
+		"companyName" : "sindhu-repo-1",
+		"contractPartyID" : "145217", 
+		"customerRepositoryURL" : "https://github.com/sujeetsindhu/CustomerPortal.git", 
+		"customerRepositoryName" : "CustomerPortal",
+		"repositoryAccessToken" : "cf0e638e545ca35842419e98db0b03a8f551bf41", 
+		"nfsPath" : "C:\\Temp\\NFS", 
+		"activeFlag" : "1", 
+		"lastModDate" : "2019-10-24 16:41:37.883"
+	},
+	{
+		"companyName" : "sindhu-repo-2",
+		"contractPartyID" : "145217", 
+		"customerRepositoryURL" : "https://github.com/sujeetsindhu/DepositFiles.git", 
+		"customerRepositoryName" : "DepositFiles",
+		"repositoryAccessToken" : "cf0e638e545ca35842419e98db0b03a8f551bf41", 
+		"nfsPath" : "C:\\Temp\\NFS", 
+		"activeFlag" : "1", 
+		"lastModDate" : "2019-01-31"
+	},
+	{
+		"companyName" : "sindhu-repo-3",
+		"contractPartyID" : "145217", 
+		"customerRepositoryURL" : "https://github.com/sujeetsindhu/BootstrapApplication.git", 
+		"customerRepositoryName" : "BootstrapApplication",
+		"repositoryAccessToken" : "cf0e638e545ca35842419e98db0b03a8f551bf41", 
+		"nfsPath" : "C:\\Temp\\NFS", 
+		"activeFlag" : "1", 
+		"lastModDate" : "2019-01-31"
+	}
+] 
+
